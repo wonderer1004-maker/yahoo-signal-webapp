@@ -1,1 +1,45 @@
-{"date":"첫 자동갱신 전","signal":"데이터 갱신 대기","reason":"GitHub Actions 실행 후 Yahoo 데이터로 자동 갱신됩니다.","qqq":"-","sma":"-","rsi":"-","vix":"-","tqqq_pct":0,"qld_pct":0,"cash_pct":100}
+{
+  "date": "2026-10-07",
+  "signal": "보유·완만매수",
+  "reason": "상승추세, RSI 높은 구간",
+  "qqq": 757.73,
+  "sma": 676.77,
+  "rsi": 68.2,
+  "vix": 15.4,
+  "sma_gap_pct": 11.96,
+  "tqqq_pct": 50,
+  "qld_pct": 20,
+  "cash_pct": 30,
+  "targets": {
+    "TQQQ": {
+      "price": 83.62,
+      "entry": 83.62,
+      "stop": 78.04,
+      "target1": 89.2,
+      "target2": 94.78,
+      "atr": 2.79,
+      "target1_pct": 6.67,
+      "stop_pct": 6.67
+    },
+    "QLD": {
+      "price": 100.23,
+      "entry": 100.23,
+      "stop": 95.62,
+      "target1": 104.84,
+      "target2": 109.44,
+      "atr": 2.3,
+      "target1_pct": 4.6,
+      "stop_pct": 4.6
+    },
+    "QQQ": {
+      "price": 757.73,
+      "entry": 757.73,
+      "stop": 739.56,
+      "target1": 775.9,
+      "target2": 794.08,
+      "atr": 9.09,
+      "target1_pct": 2.4,
+      "stop_pct": 2.4
+    }
+  }
+}

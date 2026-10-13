@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-12",
   "signal": "보유·완만매수",
   "reason": "상승추세, RSI 높은 구간",
-  "qqq": 747.58,
-  "sma": 677.43,
-  "rsi": 59.0,
-  "vix": 14.8,
-  "sma_gap_pct": 10.35,
+  "qqq": 746.04,
+  "sma": 678.86,
+  "rsi": 56.7,
+  "vix": 15.2,
+  "sma_gap_pct": 9.9,
   "tqqq_pct": 50,
   "qld_pct": 20,
   "cash_pct": 30,
   "targets": {
     "TQQQ": {
-      "price": 80.23,
-      "entry": 80.23,
-      "stop": 74.36,
-      "target1": 86.1,
-      "target2": 91.98,
-      "atr": 2.94,
-      "target1_pct": 7.32,
-      "stop_pct": 7.32
+      "price": 79.61,
+      "entry": 79.61,
+      "stop": 74.05,
+      "target1": 85.17,
+      "target2": 90.74,
+      "atr": 2.78,
+      "target1_pct": 6.99,
+      "stop_pct": 6.99
     },
     "QLD": {
-      "price": 97.54,
-      "entry": 97.54,
-      "stop": 92.71,
-      "target1": 102.37,
-      "target2": 107.2,
-      "atr": 2.41,
-      "target1_pct": 4.95,
-      "stop_pct": 4.95
+      "price": 97.08,
+      "entry": 97.08,
+      "stop": 92.51,
+      "target1": 101.65,
+      "target2": 106.22,
+      "atr": 2.28,
+      "target1_pct": 4.71,
+      "stop_pct": 4.71
     },
     "QQQ": {
-      "price": 747.58,
-      "entry": 747.58,
-      "stop": 728.63,
-      "target1": 766.53,
-      "target2": 785.47,
-      "atr": 9.47,
-      "target1_pct": 2.53,
-      "stop_pct": 2.53
+      "price": 746.04,
+      "entry": 746.04,
+      "stop": 728.08,
+      "target1": 764.0,
+      "target2": 781.95,
+      "atr": 8.98,
+      "target1_pct": 2.41,
+      "stop_pct": 2.41
     }
   }
 }

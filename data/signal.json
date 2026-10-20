@@ -5,7 +5,7 @@
   "qqq": 709.8,
   "sma": 681.57,
   "rsi": 35.1,
-  "vix": 20.0,
+  "vix": 18.4,
   "sma_gap_pct": 4.14,
   "tqqq_pct": 70,
   "qld_pct": 20,
@@ -14,22 +14,22 @@
     "TQQQ": {
       "price": 68.21,
       "entry": 68.21,
-      "stop": 61.63,
-      "target1": 74.79,
-      "target2": 81.37,
-      "atr": 3.29,
-      "target1_pct": 9.65,
-      "stop_pct": 9.65
+      "stop": 61.66,
+      "target1": 74.76,
+      "target2": 81.31,
+      "atr": 3.28,
+      "target1_pct": 9.61,
+      "stop_pct": 9.61
     },
     "QLD": {
       "price": 87.72,
       "entry": 87.72,
-      "stop": 82.31,
-      "target1": 93.13,
-      "target2": 98.55,
-      "atr": 2.71,
-      "target1_pct": 6.17,
-      "stop_pct": 6.17
+      "stop": 82.33,
+      "target1": 93.11,
+      "target2": 98.5,
+      "atr": 2.7,
+      "target1_pct": 6.14,
+      "stop_pct": 6.14
     },
     "QQQ": {
       "price": 709.8,

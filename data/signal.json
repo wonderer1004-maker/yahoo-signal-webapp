@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "signal": "매도·방어",
   "reason": "QQQ 종가가 SMA175 이하",
-  "qqq": 645.04,
-  "sma": 693.11,
-  "rsi": 33.9,
-  "vix": 28.4,
-  "sma_gap_pct": -6.93,
+  "qqq": 608.45,
+  "sma": 693.2,
+  "rsi": 26.6,
+  "vix": 35.9,
+  "sma_gap_pct": -12.23,
   "tqqq_pct": 0,
   "qld_pct": 30,
   "cash_pct": 70,
   "targets": {
     "TQQQ": {
-      "price": 49.01,
-      "entry": 49.01,
-      "stop": 40.05,
-      "target1": 57.97,
-      "target2": 66.93,
-      "atr": 4.48,
-      "target1_pct": 18.28,
-      "stop_pct": 18.28
+      "price": 41.2,
+      "entry": 41.2,
+      "stop": 31.61,
+      "target1": 50.79,
+      "target2": 60.38,
+      "atr": 4.79,
+      "target1_pct": 23.27,
+      "stop_pct": 23.27
     },
     "QLD": {
-      "price": 71.26,
-      "entry": 71.26,
-      "stop": 63.22,
-      "target1": 79.3,
-      "target2": 87.34,
-      "atr": 4.02,
-      "target1_pct": 11.28,
-      "stop_pct": 11.28
+      "price": 63.52,
+      "entry": 63.52,
+      "stop": 54.83,
+      "target1": 72.21,
+      "target2": 80.91,
+      "atr": 4.35,
+      "target1_pct": 13.69,
+      "stop_pct": 13.69
     },
     "QQQ": {
-      "price": 645.04,
-      "entry": 645.04,
-      "stop": 610.58,
-      "target1": 679.5,
-      "target2": 713.97,
-      "atr": 17.23,
-      "target1_pct": 5.34,
-      "stop_pct": 5.34
+      "price": 608.45,
+      "entry": 608.45,
+      "stop": 570.9,
+      "target1": 646.0,
+      "target2": 683.54,
+      "atr": 18.77,
+      "target1_pct": 6.17,
+      "stop_pct": 6.17
     }
   }
 }
